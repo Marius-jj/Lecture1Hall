@@ -15,4 +15,4 @@ void loop() {
   digitalWrite (LED_BUILTIN, isButtonDown);
 }
 
-//Test kommentar fra github devmode
+//Test kommentar fra VSCODE
